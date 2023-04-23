@@ -7,7 +7,6 @@
 
 ![IanaSilva GitHub stats](https://github-readme-stats.vercel.app/api?username=ianasilvadev&show_icons=true&theme=tokyonight)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ianasilvadev&bg_color=262a3b&color=1d071c&line=360a61&point=1d0707&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Minha tecnologias:
 <div style="display: inline_block"><br/>
