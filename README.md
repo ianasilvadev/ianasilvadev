@@ -20,4 +20,4 @@
 <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 </div><br/>
 
-Sou uma programadora e também estudante de ciência da computação, apaixonada por tecnologia e programação. Estou sempre buscando aprimorar minhas habilidades.
+I am a passionate software developer focused on creating efficient applications. I thrive in both front-end and back-end development, always striving to improve my skills and deliver high-quality solutions.
